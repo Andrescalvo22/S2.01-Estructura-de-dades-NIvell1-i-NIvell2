@@ -33,16 +33,22 @@ Each exercise required creating a schema, defining tables with constraints, and 
 2. Open MySQL Workbench or MySQL CLI
 3. Import the .sql schema files
 
+---
+
 ▶️ **Execution**
 
 -Execute the .sql scripts in MySQL to create the databases and tables.
 
 -Optionally, run the insert statements included in each exercise to populate the database with sample data.
 
+---
+
 🌐 **Deployment**
 
 -These exercises are designed for local execution only (educational purposes).
 However, they can be deployed on any MySQL-compatible server if needed.
+
+---
 
 🤝 **Contributions**
 
